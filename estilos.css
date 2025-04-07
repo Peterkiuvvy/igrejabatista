@@ -1,0 +1,23 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #fefdfc;
+  margin: 0;
+  padding: 0;
+}
+footer {
+  background: #1f1f1f;
+  color: #fff;
+  text-align: center;
+  padding: 40px 20px;
+  font-size: 0.95rem;
+}
+footer .social-icons {
+  margin-top: 10px;
+}
+footer .social-icons a {
+  color: white;
+  margin: 0 10px;
+  font-size: 1.4rem;
+  text-decoration: none;
+}
